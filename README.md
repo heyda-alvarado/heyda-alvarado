@@ -8,7 +8,7 @@
 - Tableau
 - Excel
 - Power BI
-- Machine Learning
+- Machine Learning/AI
 
 📫 You can reach me and connect on LinkedIn: https://www.linkedin.com/in/heyda-alvarado/. Feel free to reach out to me directly on LinkedIn or via email at heyda.alvarado@gmail.com.
 
